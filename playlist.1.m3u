@@ -1,549 +1,255 @@
 #EXTM3U
- #EXTINF:0,—- TivuSat —-
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/73.ts
- #EXTINF:0,RAI 1 HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/74.ts
- #EXTINF:0,RAI 2 HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/75.ts
- #EXTINF:0,RAI 3 HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/76.ts
- #EXTINF:0,Rete 4 HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/139.ts
- #EXTINF:0,Canale 5 HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/141.ts
- #EXTINF:0,Italia 1 HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/142.ts
- #EXTINF:0,La 7
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/144.ts
- #EXTINF:0,RSI HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/147.ts
- #EXTINF:0,RSI 2 HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/149.ts
- #EXTINF:0,RAI PREMIUM
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/1300.ts
- #EXTINF:0,RAI MOVIE
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/1301.ts
- #EXTINF:0,RAI 4
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/1299.ts
- #EXTINF:0,RAI 5
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/1298.ts
- #EXTINF:0,Iris
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/103.ts
- #EXTINF:0,TV 2000
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/1326.ts
- #EXTINF:0,Italia 7 Gold
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/1325.ts
- #EXTINF:0,Giallo
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/1324.ts
- #EXTINF:0,Antenna Sicilia
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/151.ts
- #EXTINF:0,SARDEGNA1
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/1358.ts
- #EXTINF:0,VIDEOLINA
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/1359.ts
- #EXTINF:0,—-Sky Cinema—–
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/88.ts
- #EXTINF:0,Cinema 1 HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/77.ts
- #EXTINF:0,Cinema +1 HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/78.ts
- #EXTINF:0,Cinema +24 HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/79.ts
- #EXTINF:0,Cinema Hits HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/80.ts
- #EXTINF:0,Cinema Family HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/81.ts
- #EXTINF:0,Cinema Family +1 HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/84.ts
- #EXTINF:0,Cinema Passion HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/87.ts
- #EXTINF:0,Cinema Comedy HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/90.ts
- #EXTINF:0,Cinema Max HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/92.ts
- #EXTINF:0,Cinema MAX +1 HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/94.ts
- #EXTINF:0,Cinema Cult HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/97.ts
- #EXTINF:0,Cinema Classics HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/99.ts
- #EXTINF:0,Sky 3D
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/101.ts
- #EXTINF:0,—- Smile Tv —-
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/1212.ts
- #EXTINF:0,Smile Kids Tv
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/1214.ts
- #EXTINF:0,Smile Comedy TV
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/1213.ts
- #EXTINF:0,Smile Comedy 70
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/1322.ts
- #EXTINF:0,EAGLE CINEMA 3
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/1321.ts
- #EXTINF:0,Eagle Serie TV
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/1215.ts
- #EXTINF:0,Eagle Red Carpet HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/1216.ts
- #EXTINF:0,Eagle Kids HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/1217.ts
- #EXTINF:0,—-Intrattenimento—–
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/106.ts
- #EXTINF:0,Sky Uno HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/109.ts
- #EXTINF:0,Sky Uno +1 HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/111.ts
- #EXTINF:0,Sky AtlanticHD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/113.ts
- #EXTINF:0,Sky Atlantic +1 HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/114.ts
- #EXTINF:0,Fox HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/117.ts
- #EXTINF:0,Fox +1
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/118.ts
- #EXTINF:0,Fox Life HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/120.ts
- #EXTINF:0,Fox Crime HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/123.ts
- #EXTINF:0,Fox Crime +1
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/1361.ts
- #EXTINF:0,Fox Crime +2
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/1362.ts
- #EXTINF:0,Fox Comedy HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/129.ts
- #EXTINF:0,Fox Animation HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/131.ts
- #EXTINF:0,AXN HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/132.ts
- #EXTINF:0,AXN +1
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/133.ts
- #EXTINF:0,AXN sci-fi
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/136.ts
- #EXTINF:0,Comedy Central
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/138.ts
- #EXTINF:0,Comedy Central +1
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/140.ts
- #EXTINF:0,Cielo HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/143.ts
- #EXTINF:0,Lei
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/146.ts
- #EXTINF:0,Lei +1
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/148.ts
- #EXTINF:0,Real Time HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/145.ts
- #EXTINF:0,La 5
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/152.ts
- #EXTINF:0,Top Crime
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/150.ts
- #EXTINF:0,Mediaset ITALIA DUE
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/153.ts
- #EXTINF:0,Mediaset Extra
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/154.ts
- #EXTINF:0,ALICE
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/1306.ts
- #EXTINF:0,MARCOPOLO
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/1307.ts
- #EXTINF:0,LEONARDO
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/1314.ts
- #EXTINF:0,Rai Storia
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/156.ts
- #EXTINF:0,Rai Scuola
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/157.ts
- #EXTINF:0,Canale 21
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/155.ts
- #EXTINF:0,—-Sport—-
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/83.ts
- #EXTINF:0,Sky Sport 24 HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/82.ts
- #EXTINF:0,Sky Sport 1 HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/85.ts
- #EXTINF:0,Sky Sport 2 HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/86.ts
- #EXTINF:0,Sky Sport 3 HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/89.ts
- #EXTINF:0,Sport Plus HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/1315.ts
- #EXTINF:0,Sky Moto GP HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/93.ts
- #EXTINF:0,Sky Sport F1 HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/68.ts
- #EXTINF:0,Eurosport HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/95.ts
- #EXTINF:0,Eurosport 2 HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/96.ts
- #EXTINF:0,Bike Channel
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/98.ts
- #EXTINF:0,GAZZETTA TV
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/1360.ts
- #EXTINF:0,Supertennis HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/100.ts
- #EXTINF:0,PokerItalia 24
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/102.ts
- #EXTINF:0,RAI SPORT 1
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/1296.ts
- #EXTINF:0,RAI SPORT 2
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/1297.ts
- #EXTINF:0,SPORT ITALIA
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/1304.ts
- #EXTINF:0,WWE  WRESTLING
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/1305.ts
- #EXTINF:0,—-Calcio—-
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/107.ts
- #EXTINF:0,Milan Channel
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/108.ts
- #EXTINF:0,Juventus TV
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/112.ts
- #EXTINF:0,Roma TV
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/115.ts
- #EXTINF:0,Inter Channel
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/110.ts
- #EXTINF:0,Lazio Style Ch
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/116.ts
- #EXTINF:0,FOXSPORT HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/119.ts
- #EXTINF:0,Sky Supercalcio HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/125.ts
- #EXTINF:0,Sky Calcio 1 HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/126.ts
- #EXTINF:0,Sky Calcio 2 HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/128.ts
- #EXTINF:0,Sky Calcio 3 HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/130.ts
- #EXTINF:0,Sky Calcio 4 HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/134.ts
- #EXTINF:0,Sky Calcio 5 HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/135.ts
- #EXTINF:0,Sky Calcio 6 HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/1302.ts
- #EXTINF:0,SKY Calcio 7 HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/1303.ts
- #EXTINF:0,—-Cultura—-
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/163.ts
- #EXTINF:0,EXPLORA  HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/167.ts
- #EXTINF:0,NationalGeo HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/164.ts
- #EXTINF:0,NatGeo People HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/166.ts
- #EXTINF:0,NatGeo Wild HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/165.ts
- #EXTINF:0,Discovery HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/168.ts
- #EXTINF:0,Discovery Sci HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/169.ts
- #EXTINF:0,Discovery T&L HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/170.ts
- #EXTINF:0,CI Crime+Inv HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/171.ts
- #EXTINF:0,Discovery World
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/217.ts
- #EXTINF:0,Focus
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/174.ts
- #EXTINF:0,DMAX
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/172.ts
- #EXTINF:0,Animal Planet
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/175.ts
- #EXTINF:0,History HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/176.ts
- #EXTINF:0,History +1
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/694.ts
- #EXTINF:0,Sky Arte HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/177.ts
- #EXTINF:0,Gambero Rosso HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/178.ts
- #EXTINF:0,Caccia
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/179.ts
- #EXTINF:0,PESCA
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/180.ts
- #EXTINF:0,—-Musica—-
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/181.ts
- #EXTINF:0,MTV HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/182.ts
- #EXTINF:0,Mtv Music
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/1328.ts
- #EXTINF:0,Mtv Italia
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/1329.ts
- #EXTINF:0,Deejay Tv
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/1327.ts
- #EXTINF:0,—-Notizie—-
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/200.ts
- #EXTINF:0,Sky Tg 24 HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/201.ts
- #EXTINF:0,TG COM 24
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/1309.ts
- #EXTINF:0,RAI NEWS 24
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/1308.ts
- #EXTINF:0,—-Bambini—-
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/183.ts
- #EXTINF:0,Masha e Orso
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/1317.ts
- #EXTINF:0,Peppa Channel
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/1316.ts
- #EXTINF:0,Frisbee
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/1323.ts
- #EXTINF:0,CARTOoNITO
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/1313.ts
- #EXTINF:0,Disney Channel HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/184.ts
- #EXTINF:0,Disney Channel +1
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/185.ts
- #EXTINF:0,Disney channel +2
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/1364.ts
- #EXTINF:0,Disney XD HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/186.ts
- #EXTINF:0,Disney Junior
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/187.ts
- #EXTINF:0,Disney Junior +1
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/1367.ts
- #EXTINF:0,Nick Jr
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/1365.ts
- #EXTINF:0,Nick Jr +1
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/1366.ts
- #EXTINF:0,Cartoon Network
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/188.ts
- #EXTINF:0,Boomerang
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/189.ts
- #EXTINF:0,Nickelodeon
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/190.ts
- #EXTINF:0,Baby TV
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/191.ts
- #EXTINF:0,DeA Junior
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/192.ts
- #EXTINF:0,DeA KIds
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/193.ts
- #EXTINF:0,DeAKids+1
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/1363.ts
- #EXTINF:0,MAN-GA
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/194.ts
- #EXTINF:0,K2
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/196.ts
- #EXTINF:0,Super
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/195.ts
- #EXTINF:0,Rai yoyo
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/197.ts
- #EXTINF:0,Rai Gulp
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/198.ts
- #EXTINF:0,BOING
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/199.ts
- #EXTINF:0,—-Premium—-
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/202.ts
- #EXTINF:0,Premium Cinema HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/214.ts
- #EXTINF:0,Premium Cinema +24
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/288.ts
- #EXTINF:0,Premium Cinema 2 HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/215.ts
- #EXTINF:0,Premium Cinema 2 +24
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/766.ts
- #EXTINF:0,PREMIUM ACTION HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/219.ts
- #EXTINF:0,Premium Action +24
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/285.ts
- #EXTINF:0,PREMIUM CRIME HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/802.ts
- #EXTINF:0,Premium Crime +24
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/287.ts
- #EXTINF:0,Premium Comedy
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/213.ts
- #EXTINF:0,Premium Emotion
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/209.ts
- #EXTINF:0,Premium Energy
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/207.ts
- #EXTINF:0,Premium Stories
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/286.ts
- #EXTINF:0,Premium Joi
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/206.ts
- #EXTINF:0,Studio Universal
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/216.ts
- #EXTINF:0,Premium BBC
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/210.ts
- #EXTINF:0,Premium Sport Hd
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/314.ts
- #EXTINF:0,Premium Calcio
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/218.ts
- #EXTINF:0,Premium Calcio HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/861.ts
- #EXTINF:0,Premium Calcio 1
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/220.ts
- #EXTINF:0,Premium Calcio 2
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/221.ts
- #EXTINF:0,Premium Calcio 3
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/223.ts
- #EXTINF:0,Premium Calcio 4
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/224.ts
- #EXTINF:0,Premium Calcio 5
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/225.ts
- #EXTINF:0,Premium Calcio 6
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/226.ts
- #EXTINF:0,—- Sky De —-
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/803.ts
- #EXTINF:0,ARD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/804.ts
- #EXTINF:0,3Sat
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/805.ts
- #EXTINF:0,13 Street HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/806.ts
- #EXTINF:0,RTL
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/807.ts
- #EXTINF:0,RTL 2
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/808.ts
- #EXTINF:0,RTL Nitro
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/809.ts
- #EXTINF:0,RTL Living
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/810.ts
- #EXTINF:0,N-TV
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/811.ts
- #EXTINF:0,MGM HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/812.ts
- #EXTINF:0,Super RTL
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/813.ts
- #EXTINF:0,FOX (DE)
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/814.ts
- #EXTINF:0,Channel 21 DE
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/815.ts
- #EXTINF:0,Alice DE
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/816.ts
- #EXTINF:0,Vox
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/817.ts
- #EXTINF:0,Sat 1
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/818.ts
- #EXTINF:0,Kabel 1
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/819.ts
- #EXTINF:0,Prosieben
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/820.ts
- #EXTINF:0,Prosieben MAx
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/821.ts
- #EXTINF:0,Kino Welt TV
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/822.ts
- #EXTINF:0,SWR HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/823.ts
- #EXTINF:0,SRF 1 HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/824.ts
- #EXTINF:0,SRF 2 HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/825.ts
- #EXTINF:0,ORF 1 HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/826.ts
- #EXTINF:0,ORF 2 HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/827.ts
- #EXTINF:0,ZDF HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/828.ts
- #EXTINF:0,ZDF
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/829.ts
- #EXTINF:0,TNT Serie
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/830.ts
- #EXTINF:0,TNT Film
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/831.ts
- #EXTINF:0,N24 HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/832.ts
- #EXTINF:0,—-Sky Cinema De—–
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/833.ts
- #EXTINF:0,Sky Cinema DE
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/834.ts
- #EXTINF:0,Sky Cinema +1 HD  DE
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/835.ts
- #EXTINF:0,Sky Emotion DE
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/836.ts
- #EXTINF:0,Sky Comedy DE
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/837.ts
- #EXTINF:0,Sky Cinema Hits DE
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/838.ts
- #EXTINF:0,Sky Crimi DE
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/839.ts
- #EXTINF:0,Sky Action HD DE
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/840.ts
- #EXTINF:0,Sky Atlantik DE
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/841.ts
- #EXTINF:0,FOX HD DE
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/842.ts
- #EXTINF:0,AXN HD DE
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/843.ts
- #EXTINF:0,Axn Sci-Fi DE
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/1330.ts
- #EXTINF:0,Teleclub Star
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/1332.ts
- #EXTINF:0,Teleclub Crime
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/1333.ts
- #EXTINF:0,Teleclub Cinema
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/1334.ts
- #EXTINF:0,Heimatkanal DE
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/1331.ts
- #EXTINF:0,—-Sky Sport De—-
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/844.ts
- #EXTINF:0,Sky Bundesliga 1 HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/845.ts
- #EXTINF:0,Sky Sport 1 HD DE
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/846.ts
- #EXTINF:0,Sky Sport 2 DE
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/847.ts
- #EXTINF:0,Eurosport HD DE
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/848.ts
- #EXTINF:0,Teleclub Sport 1
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/1335.ts
- #EXTINF:0,Teleclub Sport 2
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/1336.ts
- #EXTINF:0,Teleclub Sport 3
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/1337.ts
- #EXTINF:0,Sport Time TV 3 DE
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/1338.ts
- #EXTINF:0,Sport Time TV 4 DE
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/849.ts
- #EXTINF:0,Tageschau 24
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/1339.ts
- #EXTINF:0,—-Kultur—-
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/850.ts
- #EXTINF:0,National Geographic DE
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/853.ts
- #EXTINF:0,NatGeo Wild DE
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/854.ts
- #EXTINF:0,Discovery Channel HD DE
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/852.ts
- #EXTINF:0,History Channel HD DE
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/851.ts
- #EXTINF:0,Animal Planet DE
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/1340.ts
- #EXTINF:0,Arte HD DE
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/855.ts
- #EXTINF:0,MTV Germany
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/859.ts
- #EXTINF:0,Kika
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/858.ts
- #EXTINF:0,Cartoon Network DE
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/856.ts
- #EXTINF:0,Boomerang DE
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/857.ts
- #EXTINF:0,Disney Cinema Magic DE
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/1341.ts
- #EXTINF:0,Disney Channel DE
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/1342.ts
- #EXTINF:0,—- ADULTI —-
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/610.ts
- #EXTINF:0,Exotica TV
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/594.ts
- #EXTINF:0,Pink o TV-HOT
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/595.ts
- #EXTINF:0,Redlight-HOT
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/596.ts
- #EXTINF:0,Sesto Senso
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/597.ts
- #EXTINF:0,SCT HQ-HOT
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/598.ts
- #EXTINF:0,SCT HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/599.ts
- #EXTINF:0,SCT 6
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/600.ts
- #EXTINF:0,Hot Club 1 HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/601.ts
- #EXTINF:0,Hot Club 2 HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/602.ts
- #EXTINF:0,Hot Club 3 HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/603.ts
- #EXTINF:0,Hot Club 5 HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/604.ts
- #EXTINF:0,Hot Club 6 HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/605.ts
- #EXTINF:0,Hot Club 7 HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/606.ts
- #EXTINF:0,Hot Club 8 HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/607.ts
- #EXTINF:0,Hot Club 9 HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/608.ts
- #EXTINF:0,Hot Club 10 HD
- http://raisgeo.dyndns.tv:8000/live/giusy/giusy/609.ts
+#EXTINF:-1,Rai 1 HD apikappa forum
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1402.ts
+#EXTINF:-1,Rai 2 HD
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1401.ts
+#EXTINF:-1,Rai 3 HD
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1400.ts
+#EXTINF:-1,Rete 4 HD
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1395.ts
+#EXTINF:-1,Canale 5 HD
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1448.ts
+#EXTINF:-1,Italia 1 HD
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1440.ts
+#EXTINF:-1,Mediaset Extra
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1437.ts
+#EXTINF:-1,Mediaset Italia 2
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1348.ts
+#EXTINF:-1,RSI La1 HD
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1394.ts
+#EXTINF:-1,RSI La2 HD
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1393.ts
+#EXTINF:-1,RAI 4 HD
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1212.ts
+#EXTINF:-1,Rai 5
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1617.ts
+#EXTINF:-1,Rai Movie
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1398.ts
+#EXTINF:-1,Rai Premium
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1615.ts
+#EXTINF:-1,Iris
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1441.ts
+#EXTINF:-1,Top Crime
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1607.ts
+#EXTINF:-1,---- CINEMA ----
+http://pciptv.blogdns.com:34505/live/vullo/vullo/11.ts
+#EXTINF:-1,Sky Cinema 1 HD
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1381.ts
+#EXTINF:-1,Sky Cinema +1 HD
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1382.ts
+#EXTINF:-1,SKY Cinema 24 HD
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1383.ts
+#EXTINF:-1,Sky Cinema Hits HD
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1530.ts
+#EXTINF:-1,SKY Cinema Family HD
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1378.ts
+#EXTINF:-1,SKY Cinema Family +1 HD
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1991.ts
+#EXTINF:-1,Sky Cinema Passion HD
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1375.ts
+#EXTINF:-1,Sky Cinema Comedy HD
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1380.ts
+#EXTINF:-1,Sky Cinema Max HD
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1376.ts
+#EXTINF:-1,Sky Cinema Max 1 HD
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1238.ts
+#EXTINF:-1,Sky Cinema Cult HD
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1379.ts
+#EXTINF:-1,Sky Cinema Classic HD
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1240.ts
+#EXTINF:-1,----- MEDIASET PREMIUM ----
+http://pciptv.blogdns.com:34505/live/vullo/vullo/131.ts
+#EXTINF:-1,Premium Cinema HD
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1415.ts
+#EXTINF:-1,Premium Cinema 2 HD
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1418.ts
+#EXTINF:-1,Premium Cinema 24
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1420.ts
+#EXTINF:-1,Premium Cinema 2 24
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1419.ts
+#EXTINF:-1,Premium Cinema Comedy
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1417.ts
+#EXTINF:-1,Premium Stories
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1403.ts
+#EXTINF:-1,Premium Joy
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1405.ts
+#EXTINF:-1,Premium Cinema Energy
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1416.ts
+#EXTINF:-1,Premium Emotion
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1408.ts
+#EXTINF:-1,Premium Crime HD
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1413.ts
+#EXTINF:-1,Premium Crime 24
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1414.ts
+#EXTINF:-1,Premium Action HD
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1431.ts
+#EXTINF:-1,Premium Action 24
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1432.ts
+#EXTINF:-1,Premium DIscovery World
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1412.ts
+#EXTINF:-1,Premium BBC Knowldege
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1430.ts
+#EXTINF:-1,----- Premium Sport -----
+http://pciptv.blogdns.com:34505/live/vullo/vullo/2102.ts
+#EXTINF:-1,Premium Sport HD
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1404.ts
+#EXTINF:-1,premium sport
+http://pciptv.blogdns.com:34505/live/vullo/vullo/2307.ts
+#EXTINF:-1,premium sport sd
+http://pciptv.blogdns.com:34505/live/vullo/vullo/2107.ts
+#EXTINF:-1,Premium Sport 2 HD
+http://pciptv.blogdns.com:34505/live/vullo/vullo/2292.ts
+#EXTINF:-1,Premium Sport 2 SD
+http://pciptv.blogdns.com:34505/live/vullo/vullo/2291.ts
+#EXTINF:-1,Premium Calcio
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1429.ts
+#EXTINF:-1,Premium Calcio 1
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1428.ts
+#EXTINF:-1,Premium Calcio 1 HD
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1427.ts
+#EXTINF:-1,Premium Calcio 2
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1426.ts
+#EXTINF:-1,Premium Calcio 3
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1425.ts
+#EXTINF:-1,Premium Calcio 4
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1424.ts
+#EXTINF:-1,Premium Calcio 5
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1423.ts
+#EXTINF:-1,Premium Calcio 6
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1422.ts
+#EXTINF:-1,Premium Calcio 7
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1421.ts
+#EXTINF:-1,---- SKY SPORT ----
+http://pciptv.blogdns.com:34505/live/vullo/vullo/55.ts
+#EXTINF:-1,Sky Sport 1 HD
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1373.ts
+#EXTINF:-1,SKY Sport 2 HD
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1372.ts
+#EXTINF:-1,Sky Sport 3 HD
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1370.ts
+#EXTINF:-1,SKY Sport 24 HD
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1371.ts
+#EXTINF:-1,Sky Fox Sports HD
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1374.ts
+#EXTINF:-1,Sky Sport F1 HD
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1338.ts
+#EXTINF:-1,Sky Moto GP HD
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1334.ts
+#EXTINF:-1,sky Moto GP SD
+http://pciptv.blogdns.com:34505/live/vullo/vullo/2367.ts
+#EXTINF:-1,Super tennis HD
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1367.ts
+#EXTINF:-1,EUROSPORT 2 HD
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1216.ts
+#EXTINF:-1,EUROSPORT 1
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1217.ts
+#EXTINF:-1,BIKE CHANNEL
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1913.ts
+#EXTINF:-1,-Inter Channel
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1604.ts
+#EXTINF:-1,-Milan Channel
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1602.ts
+#EXTINF:-1,Roma Channel
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1899.ts
+#EXTINF:-1,Juventus tv
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1900.ts
+#EXTINF:-1,----- SKY CALCIO -----
+http://pciptv.blogdns.com:34505/live/vullo/vullo/69.ts
+#EXTINF:-1,Sky Calcio 1 HD
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1390.ts
+#EXTINF:-1,Sky Calcio 2 HD
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1389.ts
+#EXTINF:-1,Sky Calcio 3 HD
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1388.ts
+#EXTINF:-1,Sky Calcio 4 HD
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1387.ts
+#EXTINF:-1,Sky Calcio 5 HD
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1386.ts
+#EXTINF:-1,Sky Calcio 6 HD
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1385.ts
+#EXTINF:-1,SKY Calcio 7 HD
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1384.ts
+#EXTINF:-1,SKY Calcio 8 HD
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1242.ts
+#EXTINF:-1,SKY Calcio 9 HD
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1241.ts
+#EXTINF:-1,SKY Calcio 10 HD
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1243.ts
+#EXTINF:-1,Sky Supercalcio HD
+http://pciptv.blogdns.com:34505/live/vullo/vullo/1336.ts
+#EXTINF:-1,====KANALE ITALY=====
+http://iptv.hopto.org:9705/live/iptv11/iptv11/870.ts
+#EXTINF:-1,Rai 1 .HD
+http://iptv.hopto.org:9705/live/iptv11/iptv11/118.ts
+#EXTINF:-1,Rai 2 HD
+http://iptv.hopto.org:9705/live/iptv11/iptv11/117.ts
+#EXTINF:-1,Rai 3 HD
+http://iptv.hopto.org:9705/live/iptv11/iptv11/120.ts
+#EXTINF:-1,Rai 4
+http://iptv.hopto.org:9705/live/iptv11/iptv11/887.ts
+#EXTINF:-1,Rai 5
+http://iptv.hopto.org:9705/live/iptv11/iptv11/197.ts
+#EXTINF:-1,Rai Premium
+http://iptv.hopto.org:9705/live/iptv11/iptv11/890.ts
+#EXTINF:-1,Rai Movie
+http://iptv.hopto.org:9705/live/iptv11/iptv11/889.ts
+#EXTINF:-1,IT: La 5
+http://iptv.hopto.org:9705/live/iptv11/iptv11/803.ts
+#EXTINF:-1,IT: Real Time
+http://iptv.hopto.org:9705/live/iptv11/iptv11/802.ts
+#EXTINF:-1,Sky Tg 24
+http://iptv.hopto.org:9705/live/iptv11/iptv11/204.ts
+#EXTINF:-1,Italia 1
+http://iptv.hopto.org:9705/live/iptv11/iptv11/122.ts
+#EXTINF:-1,Italia 2
+http://iptv.hopto.org:9705/live/iptv11/iptv11/141.ts
+#EXTINF:-1,Rete 4
+http://iptv.hopto.org:9705/live/iptv11/iptv11/123.ts
+#EXTINF:-1,Canale 5
+http://iptv.hopto.org:9705/live/iptv11/iptv11/121.ts
+#EXTINF:-1,LA7
+http://iptv.hopto.org:9705/live/iptv11/iptv11/701.ts
+#EXTINF:-1,Sky Uno
+http://iptv.hopto.org:9705/live/iptv11/iptv11/105.ts
+#EXTINF:-1,FOX Life HD Italy
+http://iptv.hopto.org:9705/live/iptv11/iptv11/989.ts
+#EXTINF:-1,Fox Italy
+http://iptv.hopto.org:9705/live/iptv11/iptv11/817.ts
+#EXTINF:-1,Mediaset EXTRA
+http://iptv.hopto.org:9705/live/iptv11/iptv11/142.ts
+#EXTINF:-1,Premium Cinema HD
+http://iptv.hopto.org:9705/live/iptv11/iptv11/111.ts
+#EXTINF:-1,Premium Cinema 2
+http://iptv.hopto.org:9705/live/iptv11/iptv11/189.ts
+#EXTINF:-1,Premium Studio Universal
+http://iptv.hopto.org:9705/live/iptv11/iptv11/884.ts
+#EXTINF:-1,Premium Joy
+http://iptv.hopto.org:9705/live/iptv11/iptv11/188.ts
+#EXTINF:-1,Premium Stories
+http://iptv.hopto.org:9705/live/iptv11/iptv11/110.ts
+#EXTINF:-1,Premium Energy
+http://iptv.hopto.org:9705/live/iptv11/iptv11/109.ts
+#EXTINF:-1,Premium Crime
+http://iptv.hopto.org:9705/live/iptv11/iptv11/104.ts
+#EXTINF:-1,Premium Emotion
+http://iptv.hopto.org:9705/live/iptv11/iptv11/44.ts
+#EXTINF:-1,Premium Action
+http://iptv.hopto.org:9705/live/iptv11/iptv11/112.ts
+#EXTINF:-1,PREMIUM COMEDY
+http://iptv.hopto.org:9705/live/iptv11/iptv11/172.ts
+#EXTINF:-1,Sky Disney XD
+http://iptv.hopto.org:9705/live/iptv11/iptv11/916.ts
+#EXTINF:-1,Sky Disney Junior
+http://iptv.hopto.org:9705/live/iptv11/iptv11/810.ts
+#EXTINF:-1,Cartoon Network
+http://iptv.hopto.org:9705/live/iptv11/iptv11/134.ts
+#EXTINF:-1,Rai YoYo
+http://iptv.hopto.org:9705/live/iptv11/iptv11/881.ts
+#EXTINF:-1,Supertennis HD
+http://iptv.hopto.org:9705/live/iptv11/iptv11/885.ts
+#EXTINF:-1,Premium FoxSport
+http://iptv.hopto.org:9705/live/iptv11/iptv11/828.ts
+#EXTINF:-1,Premium Sport
+http://iptv.hopto.org:9705/live/iptv11/iptv11/213.ts
+#EXTINF:-1,Rai Sport 1
+http://iptv.hopto.org:9705/live/iptv11/iptv11/888.ts
